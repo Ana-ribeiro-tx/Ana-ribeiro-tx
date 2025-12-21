@@ -8,20 +8,20 @@
 - 🛠️ Focada em **Desenvolvimento Web Full-Stack**, **Desenvolvimento de Jogos** e **Robótica Educacional**.
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-ribeiro-tx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-ribeiro-tx&layout=compact&theme=tokyonight&langs_count=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-ribeiro-tx&layout=compact&theme=tokyonight&langs_count=8"/>
   </div>
+</div>
 
-  <div align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-ribeiro-tx/Ana-ribeiro-tx/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-ribeiro-tx/Ana-ribeiro-tx/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/Ana-ribeiro-tx/Ana-ribeiro-tx/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-  
-</div>
+
 <div align="center">
 
 ### 🛠️ Minhas Skills
@@ -51,12 +51,11 @@
 <details>
 <summary><b>🚀 Capacitação de Destaque </b>(Clique para expandir os detalhes)</summary>
 
-#### 🤖 [Eu Programo Robôs - IFAC](https://web.ifac.edu.br/incubac/eu-programo-robos/)
+#### 🤖 <a href="https://web.ifac.edu.br/incubac/eu-programo-robos/" target="_blank">Eu Programo Robôs - IFAC</a>
 
 _Curso: Tecnologias Disruptivas e Inovação (220h)._
 
 Formação focada na **Indústria 4.0** e prototipagem de hardware:
-
 - **Sistemas Embarcados:** Desenvolvimento de projetos com **Arduino** e **Raspberry Pi**, integrando sensores e atuadores para automação.
 - **Fabricação Digital:** Modelagem 2D/3D, técnicas de impressão 3D e corte a laser para prototipagem ágil.
 - **IA e Visão:** Aplicação de algoritmos de **Machine Learning** e redes neurais em dispositivos embarcados.
@@ -74,14 +73,13 @@ Formação focada na **Indústria 4.0** e prototipagem de hardware:
 
 <br>
 
-#### 🎓 [WebAcademy - UFAC](https://webacademy.ufac.br/)
+#### 🎓 <a href="https://webacademy.ufac.br/" target="_blank">WebAcademy - UFAC</a>
 
 _Capacitação em Desenvolvimento Web Full-Stack (300h)_
 
 Formação intensiva cobrindo todo o ciclo de vida de uma aplicação:
-
 - **Full-Stack:** Desenvolvimento de aplicações robustas utilizando **Java (Spring Boot)** e **Angular**.
-- **DevOps & Cloud:** Implementação de pipelines de **Integração Contínua (CI)** com GitHub Actions.
+- **DevOps & Cloud:** Implementação de pipelines de **Integração Contínua (CI)** com GitHub Actions e práticas AWS/Google Cloud.
 - **Qualidade:** Automação de testes unitários e de integração com JUnit e Selenium.
 - **Design:** Aplicação prática de **UX e Design Thinking** para criação de produtos centrados no usuário.
 
@@ -113,10 +111,10 @@ Formação intensiva cobrindo todo o ciclo de vida de uma aplicação:
 ### 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="mailto:ana.ribeiroxp@gmail.com">
+  <a href="mailto:ana.ribeiroxp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/ana-ribeiro-tx">
+  <a href="https://www.linkedin.com/in/ana-ribeiro-tx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
